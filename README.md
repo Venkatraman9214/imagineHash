@@ -1,2 +1,2 @@
 # imagineHash
-Distributed Hash table projects
+A client set-up for completing a client-server model
